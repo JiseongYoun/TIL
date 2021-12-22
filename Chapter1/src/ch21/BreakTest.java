@@ -6,10 +6,18 @@ package ch21;
  - 여러 반복문이 중첩되어 있는 경우엔 break 문이 포함되어 있는 반복문만 빠져 나옴 */
 
 public class BreakTest {
-
+   // 1부터 숫자를 더하여 100이 넘는 순간의 그 숫자와 합을 출력하기.
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		int sum = 0;
+		int num;
+		
+		for(num=1; sum <= 100; num++) {
+			sum += num;
+			if(sum >= 100)
+				break; //100보다 크거나 같을때 멈춤.
+		}
+		System.out.println(sum);
+		System.out.println(num);
 	}
 
 }
