@@ -1,5 +1,5 @@
-# ✏️ Today I Learned.
->## Part 1. 자바 프로그래밍 (21)
+## 💡 Part 1. 자바 프로그래밍 (21)
+
 >#### Ch 01. 자바 기초
 1. 자바 프로그래밍 Start
 2. Eclipse
