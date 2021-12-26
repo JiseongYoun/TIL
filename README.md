@@ -1,7 +1,7 @@
 # ✏️ Today I Learned. (Java)
 ### Part 1. [자바 프로그래밍 (21)](https://github.com/JiseongYoun/TIL/tree/main/Chapter1)
 >##### Ch 01. 자바 기초
-### Part 2. 객체 지향 프로그래밍 (101)
+### Part 2. [객체 지향 프로그래밍 (101)](https://github.com/JiseongYoun/TIL/tree/main/Chapter2)
 >##### Ch 02. 객체 지향 기초
 >##### Ch 03. 객체 지향 핵심
 >##### Ch 04. 자바의 유용한 클래스들
