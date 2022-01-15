@@ -2,7 +2,7 @@ package ch06;
 
 import java.util.ArrayList;
 
-public class CustomerTest {
+public class CustomerTest02 {
 
 	public static void main(String[] args) {
 		
@@ -32,7 +32,6 @@ public class CustomerTest {
 //			System.out.println(customer.getCustomerName() + "님의 현재 보너스 포인트는 " + customer.bonusPoint + "입니다." );
 //		}
 		
-		// instance를 이용하여 인스턴스의 형 체크 : 원래 인스턴스의 형이 맞는지 여부를 체크하는 키워드. 맞으면 ture 아니면 false를 반환함.
 		if(customerE instanceof GoldCustomer) {
 		GoldCustomer vc = (GoldCustomer)customerE; // gold인데 vip로 할수없음. 
 		System.out.println(customerE.showCustomerInfo());
